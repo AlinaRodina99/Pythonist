@@ -1,1 +1,1 @@
-Tasks for Junior Haskell developer vacancy
+ Algorithm tasks on Python
